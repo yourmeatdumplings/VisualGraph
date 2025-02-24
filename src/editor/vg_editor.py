@@ -13,7 +13,7 @@ class VisualGraphEditor(QWidget):
         self.setup_editor()
 
     def setup_editor(self):
-        self.setGeometry(400,400,1280,720)
+        self.setGeometry(100,100,1280,720)
 
         self.setWindowTitle("Visual Graph")
 

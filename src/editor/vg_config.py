@@ -7,7 +7,7 @@ class EditorConfig:
     editor_scene_grid_dark_line_width = 1.5
 
     editor_scene_grid_size = 20
-    editor_scene_grid_chunk = 10
+    editor_scene_chunk_size = 10
 
     editor_scene_width = 32000
     editor_scene_height = 32000
